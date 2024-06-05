@@ -1,6 +1,6 @@
-# iroh + exsitm
+# iroh + extism
 
-This is an example of running iroh thorugh [exitsm](https://extism.org/) as a set of [host functions](https://extism.org/docs/concepts/host-functions). It's written entirely in rust, but the purpose is to show how one would build an API that any plugin could use to gain access to a plugin-host-provided iroh instance.
+This is an example of running iroh thorugh [extism](https://extism.org/) as a set of [host functions](https://extism.org/docs/concepts/host-functions). It's written entirely in rust, but the purpose is to show how one would build an API that any plugin could use to gain access to a plugin-host-provided iroh instance.
 
 ## Requirements
 
